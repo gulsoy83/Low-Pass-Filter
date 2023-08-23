@@ -11,7 +11,7 @@ Lena_2. ![lenaN pgm-ort](https://github.com/gulsoy83/Low-Pass-Filter/assets/4642
 
 Lena_3. ![lenaN pgm-med](https://github.com/gulsoy83/Low-Pass-Filter/assets/46426033/54845021-6909-4205-80f2-d9520f9c782d)
 
-
+***
 
 glass_1. ![glassN](https://github.com/gulsoy83/Low-Pass-Filter/assets/46426033/eaf1dfdf-6260-4b3b-a6d8-a15db007c31b)
 
@@ -19,7 +19,7 @@ glass_2. ![glassN pgm-ort](https://github.com/gulsoy83/Low-Pass-Filter/assets/46
 
 glass_3. ![glassN pgm-med](https://github.com/gulsoy83/Low-Pass-Filter/assets/46426033/c308daf8-56ff-4456-b12c-cf18d4f83a76)
 
-
+***
 
 galaxy_1. ![galaxy](https://github.com/gulsoy83/Low-Pass-Filter/assets/46426033/7a689250-c8f1-4e66-a940-2b9ca0b73bd7)
 
@@ -27,7 +27,7 @@ galaxy_2. ![galaxy pgm-ort](https://github.com/gulsoy83/Low-Pass-Filter/assets/4
 
 galaxy_3. ![galaxy pgm-med](https://github.com/gulsoy83/Low-Pass-Filter/assets/46426033/603cee99-6c56-4df3-9d64-bc7819a6534b)
 
-
+***
 
 balloons_1. ![balloonsNpgm](https://github.com/gulsoy83/Low-Pass-Filter/assets/46426033/438fab94-31ed-464b-92c4-9766c3fba3b2)
 
