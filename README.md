@@ -5,21 +5,21 @@ While the average filter reduces the jaggedness, it blurs the picture excessivel
 
 Examples: (The first picture given is the original, the second picture is with the average filter, and the third picture is with the median filter.)
 
-1. ![lenaN](https://github.com/gulsoy83/Low-Pass-Filter/assets/46426033/21c91960-2589-424e-91ca-31f923f80d3c)
-2. ![lenaN pgm-ort](https://github.com/gulsoy83/Low-Pass-Filter/assets/46426033/f0c94514-a554-456e-9747-60a53bcfda3d)
-3. ![lenaN pgm-med](https://github.com/gulsoy83/Low-Pass-Filter/assets/46426033/54845021-6909-4205-80f2-d9520f9c782d)
+Lena_1. ![lenaN](https://github.com/gulsoy83/Low-Pass-Filter/assets/46426033/21c91960-2589-424e-91ca-31f923f80d3c)
+Lena_2. ![lenaN pgm-ort](https://github.com/gulsoy83/Low-Pass-Filter/assets/46426033/f0c94514-a554-456e-9747-60a53bcfda3d)
+Lena_3. ![lenaN pgm-med](https://github.com/gulsoy83/Low-Pass-Filter/assets/46426033/54845021-6909-4205-80f2-d9520f9c782d)
 
 
-1. ![glassN](https://github.com/gulsoy83/Low-Pass-Filter/assets/46426033/eaf1dfdf-6260-4b3b-a6d8-a15db007c31b)
-2. ![glassN pgm-ort](https://github.com/gulsoy83/Low-Pass-Filter/assets/46426033/304f9c75-8eb7-4b07-ba3d-f88726a0c209)
-3. ![glassN pgm-med](https://github.com/gulsoy83/Low-Pass-Filter/assets/46426033/c308daf8-56ff-4456-b12c-cf18d4f83a76)
+glass_1. ![glassN](https://github.com/gulsoy83/Low-Pass-Filter/assets/46426033/eaf1dfdf-6260-4b3b-a6d8-a15db007c31b)
+glass_2. ![glassN pgm-ort](https://github.com/gulsoy83/Low-Pass-Filter/assets/46426033/304f9c75-8eb7-4b07-ba3d-f88726a0c209)
+glass_3. ![glassN pgm-med](https://github.com/gulsoy83/Low-Pass-Filter/assets/46426033/c308daf8-56ff-4456-b12c-cf18d4f83a76)
 
 
-1. ![galaxy](https://github.com/gulsoy83/Low-Pass-Filter/assets/46426033/7a689250-c8f1-4e66-a940-2b9ca0b73bd7)
-2. ![galaxy pgm-ort](https://github.com/gulsoy83/Low-Pass-Filter/assets/46426033/64f4074e-c67c-4c11-be48-7d01502e82ff)
-3. ![galaxy pgm-med](https://github.com/gulsoy83/Low-Pass-Filter/assets/46426033/603cee99-6c56-4df3-9d64-bc7819a6534b)
+galaxy_1. ![galaxy](https://github.com/gulsoy83/Low-Pass-Filter/assets/46426033/7a689250-c8f1-4e66-a940-2b9ca0b73bd7)
+galaxy_2. ![galaxy pgm-ort](https://github.com/gulsoy83/Low-Pass-Filter/assets/46426033/64f4074e-c67c-4c11-be48-7d01502e82ff)
+galaxy_3. ![galaxy pgm-med](https://github.com/gulsoy83/Low-Pass-Filter/assets/46426033/603cee99-6c56-4df3-9d64-bc7819a6534b)
 
 
-1. ![balloonsNpgm](https://github.com/gulsoy83/Low-Pass-Filter/assets/46426033/438fab94-31ed-464b-92c4-9766c3fba3b2)
-2. ![balloonsNpgm pgm-ort](https://github.com/gulsoy83/Low-Pass-Filter/assets/46426033/e1124c3f-b0f7-4f0e-97c0-c2ef352b4f0a)
-3. ![balloonsNpgm pgm-med](https://github.com/gulsoy83/Low-Pass-Filter/assets/46426033/58bbae1c-9fad-45c8-9fb7-50200267430d)
+balloons_1. ![balloonsNpgm](https://github.com/gulsoy83/Low-Pass-Filter/assets/46426033/438fab94-31ed-464b-92c4-9766c3fba3b2)
+balloons_2. ![balloonsNpgm pgm-ort](https://github.com/gulsoy83/Low-Pass-Filter/assets/46426033/e1124c3f-b0f7-4f0e-97c0-c2ef352b4f0a)
+balloons_3. ![balloonsNpgm pgm-med](https://github.com/gulsoy83/Low-Pass-Filter/assets/46426033/58bbae1c-9fad-45c8-9fb7-50200267430d)
